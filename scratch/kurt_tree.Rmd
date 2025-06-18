@@ -1,0 +1,16 @@
+---
+title: "Fishtree"
+author: "Eric Witte"
+date: "2025-06-18"
+output: html_document
+---
+
+#Install packages
+install.packages("fishtree")
+
+#Load packages
+library(fishtree)
+
+#set tree group
+kurt <- fishtree_phylogeny(rank = "Kurtiformes")
+plot(kurt)
