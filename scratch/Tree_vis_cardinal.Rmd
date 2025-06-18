@@ -1,0 +1,130 @@
+---
+title: "Tree_vis_cardinal"
+author: "Eric Witte"
+date: "2025-06-18"
+output: html_document
+---
+
+#Install packages
+install.packages("ape")
+install.packages("rentrez")
+install.packages("XML")
+install.packages("dplyr")
+install.packages("webdriver")
+install.packages("xml2")
+install.packages("rvest")
+install.packages("phytools")
+
+#Load packages
+library(ape)
+library(rentrez)
+library(XML)
+library(dplyr)
+library(webdriver)
+library(xml2)
+library(rvest)
+library(phytools)
+
+install_phantomjs
+
+#Load data
+tree <- read.nexus(file="data/16_6_masked-16_6_masked_alignment.tree")
+plot(tree)
+
+#Optionally reroot tree
+##pick location interactively
+phytools::getnode(tree)
+##input node.number returned from previous step
+tree0<-reroot(tree, node.number = 72) 
+plot(tree0)
+##update "tree" variable below to be "tree0"
+
+#Check tip labels and find replace with species names
+tree0$tip.label
+length(tree0$tip.label)
+tips <- data.frame(tree0$tip.label)
+View(tips)
+
+##species names
+for (i in 1:nrow(tips)) {
+tmp <- rentrez::entrez_fetch(db = "nuccore", id =tips[i,1], rettype = "gb", retmode = "xml", parsed = TRUE)
+tmpdf <- xmlToDataFrame(tmp)
+tips[i,2] <- tmpdf$GBSeq_organism
+rm(tmp)
+rm(tmpdf)
+}
+
+View(tips)
+
+#tree1 is replace tip labels
+tree1 <- tree0
+tree1$tip.label <- gsub(" ", "_", tips[,2])
+plot(tree1)
+
+dat <- tree1$tip.label
+
+#Scrape fishbase
+base_url <- "https://www.fishbase.se/summary/" #locate fishbase
+
+sample_data <- data.frame()
+
+for (Species in dat) {
+     tmp_link <- paste(base_url, Species, ".html", sep = "") #create URL
+     tmp_entry <- cbind(Species, tmp_link)
+     sample_data <- rbind(sample_data, tmp_entry)
+     rm(list = ls(pattern = "tmp_"))
+}
+
+sample_data <- sample_data %>% dplyr::rename("link" = "tmp_link") # collect names & links
+
+all_links <- sample_data$link #create link vector
+all_names <- sample_data$name #create name vector
+
+pjs_instance <- run_phantomjs()
+pjs_session <- Session$new(port = pjs_instance$port)
+
+all_fish_data <- data.frame()
+for (i in 1:length(all_links)) {
+  cat("Downloading", i, "of", length(all_links), "URL:", all_links[i], "\n")
+  article <- scrape_fish_base(all_links[i])
+  all_fish_data <- rbind(all_fish_data, article)
+} ###NOTE: this pulls extra data. In particular, model will have large chunks of text. Modify scrape_fishbase function as necessary. 
+
+View(all_fish_data)
+
+#Create variable of habitat
+hab <- data.frame(tree1$tip.label)
+hab[,2]<- all_fish_data$habitat
+View(hab)
+
+hab[,3:5]<- 0
+
+for(i in 1:nrow(hab)){
+ifelse((grep("marine", hab[i,2], ignore.case = TRUE)==1), hab[i,3] <- 1, hab[i,3] <- 0)
+ifelse((grep("brackish", hab[i,2], ignore.case = TRUE)==1), hab[i,4] <- 1, hab[i,4] <- 0)
+ifelse((grep("freshwater", hab[i,2], ignore.case = TRUE)==1), hab[i,5] <- 1, hab[i,5] <- 0)
+}
+
+colnames(hab)<- c("species", "fishbase_habitat", "marine", "brackish", "freshwater")
+
+View(hab)
+
+#visualize trees
+marine <- hab$marine
+names(marine) <- hab$species
+marine_tree <- contMap(tree1, marine, plot = FALSE)
+
+plot(setMap(marine_tree, invert = TRUE, fsize=c(0.7,1), leg.text = "Use of marine habitat", lwd = 3))
+
+brackish <- hab$brackish
+names(brackish) <- hab$species
+brackish_tree <- contMap(tree1, brackish, plot = FALSE)
+
+plot(setMap(brackish_tree, invert = TRUE, fsize=c(0.7,1), leg.text = "Use of brackish habitat", lwd = 3))
+
+freshwater <- hab$freshwater
+names(freshwater) <- hab$species
+freshwater_tree <- contMap(tree1, freshwater, plot = FALSE)
+
+plot(setMap(freshwater_tree, invert = TRUE, fsize=c(0.7,1), leg.text = "Use of freshwater habitat", lwd = 3))
+
