@@ -1,0 +1,39 @@
+---
+title: "genome_size"
+author: "Eric Witte"
+date: "2025-08-21"
+output: html_document
+---
+
+library(tidyverse)
+library(ggplot2)
+
+gen_tab <- read.csv2(file="data/Cichlid_genomes_21.8.25.tsv", sep="\t")
+
+head(gen_tab)
+
+library(dplyr)
+
+gen_1 <- gen_tab %>%
+  mutate(across(where(is.character), ~ gsub(" ", "_", .)))
+
+gen_nodup <- gen_1 %>%
+  group_by(Organism.Name) %>%
+  summarise(median_length = median(Assembly.Stats.Total.Sequence.Length, na.rm = TRUE))
+  
+gen_nodup_clean <- gen_nodup %>%
+  filter(Organism.Name != "Otopharynx_argyrosoma_'red'")
+
+  
+  library(ggplot2)
+
+ggplot(gen_nodup_clean, aes(x = median_length / 1e8)) +
+  geom_histogram(binwidth = 1, fill = "steelblue", color = "white") +
+  labs(
+    x = "Assembly Total Sequence Length (100Mbp)",
+    y = "Count",
+    title = "Distribution of cichlid genome size"
+  ) +
+  theme_minimal()
+
+

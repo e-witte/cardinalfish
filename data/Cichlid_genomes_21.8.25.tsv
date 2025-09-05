@@ -1,0 +1,635 @@
+Assembly Accession	Assembly Name	Annotation Release Date	Organism Name	Assembly Stats Total Sequence Length	Assembly Stats Total Number of Chromosomes	Assembly Level	Assembly Release Date	WGS project accession	Assembly Stats Number of Scaffolds
+GCA_965226115.1	fAulStu2.1		Aulonocara stuartgranti	945366440	22	Chromosome	2025-03-27		22
+GCA_001858045.3	O_niloticus_UMD_NMBU		Oreochromis niloticus	1005664923	22	Chromosome	2018-06-29	MKQE02	2459
+GCF_001858045.2	O_niloticus_UMD_NMBU	2025-06-12	Oreochromis niloticus	1005664923	22	Chromosome	2018-06-29	MKQE02	2459
+GCA_041004005.1	CIBA_Esura_1.1		Etroplus suratensis	1247975007	24	Chromosome	2024-08-01	JBCJKK01	117
+GCA_900246225.5	fAstCal1.3		Astatotilapia calliptera	880428986	22	Chromosome	2021-04-24	OFHY04	248
+GCA_900246225.3	fAstCal1.2		Astatotilapia calliptera	880428986	22	Chromosome	2018-05-30	OFHY03	248
+GCF_900246225.1	fAstCal1.2	2025-07-17	Astatotilapia calliptera	880428986	22	Chromosome	2018-05-30	OFHY03	248
+GCA_000238955.5	M_zebra_UMD2a		Maylandia zebra	957468680	22	Chromosome	2018-04-10	AGTA05	1689
+GCF_000238955.4	M_zebra_UMD2a	2025-06-18	Maylandia zebra	957468680	22	Chromosome	2018-04-10	AGTA05	1689
+GCA_040437545.1	ASM4043754v1		Parachromis managuensis	896662747	24	Chromosome	2024-07-02	JBEJUV01	79
+GCA_013358895.1	ZZ_aureus		Oreochromis aureus	1005558595	22	Chromosome	2020-06-19	JAAMTF01	303
+GCF_013358895.1	ZZ_aureus	2021-02-11	Oreochromis aureus	1005558595	22	Chromosome	2020-06-19	JAAMTF01	303
+GCA_046562855.1	ASM4656285v1	2025-01-08	Sarotherodon galilaeus	1025281566	22	Chromosome	2025-01-08	JBGVTX01	80
+GCA_047652445.1	Shou_Sae_1.0		Symphysodon aequifasciata	884462546	30	Chromosome	2025-02-11	JAQPQX01	928
+GCA_013435755.1	ASM1343575v1		Amphilophus citrinellus	961214450	21	Chromosome	2020-07-23	JACBYM01	1391
+GCA_051167445.1	ASM5116744v1		Perissodus microlepis	853313261	22	Chromosome	2025-07-01	JBPFCP01	72
+GCA_963576455.2	fNeoMul1.2		Neolamprologus multifasciatus	858770123	22	Chromosome	2024-07-23	CAUYVS02	76
+GCA_040437555.1	P_splendida v1.0		Petenia splendida	923534345	24	Chromosome	2024-07-02	JBEJUW01	57
+GCA_007364275.2	fArcCen1		Archocentrus centrarchus	932930362	24	Chromosome	2019-08-01	STFV01	188
+GCF_007364275.1	fArcCen1	2025-07-09	Archocentrus centrarchus	932930362	24	Chromosome	2019-08-01	STFV01	188
+GCA_965183825.1	fDipLim2.hap1.1		Diplotaxodon limnothrissa	966661948	22	Chromosome	2025-03-04	CBCYMH01	1300
+GCA_047663975.1	ASM4766397v1		Labeotropheus trewavasae	929610880	23	Chromosome	2025-02-12	JBKOQP01	156
+GCA_040805835.1	ASM4080583v1		Chromidotilapia guntheri	866651555	24	Chromosome	2024-07-22	JBDKXC01	135
+GCA_036321145.2	Pm_UMD_F_2		Pelmatolapia mariae	972201687	20	Chromosome	2024-04-17	JAWPEK02	791
+GCF_036321145.2	Pm_UMD_F_2	2024-05-17	Pelmatolapia mariae	972201687	20	Chromosome	2024-04-17	JAWPEK02	791
+GCA_051989935.1	UNESP_Alatifasciata_1B_v3		Astatotilapia latifasciata	924271802	22	Chromosome	2025-08-13	JBPNYP01	1973
+GCA_922035795.1	Oreochromis_mossambicus_EIV1		Oreochromis mossambicus	1047174011		Scaffold	2023-04-09	CAKLIZ01	51491
+GCA_018398535.1	NCSU_Asbu1		Haplochromis burtoni	854572272		Scaffold	2021-05-19	JAGKPV01	7420
+GCF_018398535.1	NCSU_Asbu1	2021-06-21	Haplochromis burtoni	854572272		Scaffold	2021-05-19	JAGKPV01	7420
+GCA_000239375.1	PunNye1.0		Pundamilia nyererei	830133247		Scaffold	2011-12-22	AFNX01	7236
+GCF_000239375.1	PunNye1.0	2025-06-03	Pundamilia nyererei	830133247		Scaffold	2011-12-22	AFNX01	7236
+GCA_000150855.1	ASM15085v1		Mchenga conophoros	73425564		Scaffold	2008-07-09	ABPJ01	61923
+GCA_000239395.1	NeoBri1.0		Neolamprologus brichardi	847893845		Scaffold	2011-12-22	AFNY01	9098
+GCF_000239395.1	NeoBri1.0	2020-08-19	Neolamprologus brichardi	847893845		Scaffold	2011-12-22	AFNY01	9098
+GCA_000150935.1	ASM15093v1		Rhamphochromis esox	71295074		Scaffold	2008-07-09	ABPN01	55751
+GCA_041757325.1	ASM4175732v1		Pungu maclareni	940683447		Contig	2024-09-05	JBHCOC01	2443
+GCA_900408965.1	fSimDia1.1		Simochromis diagramma	848827444		Scaffold	2018-06-18	OVJJ01	823
+GCF_900408965.1	fSimDia1.1	2021-02-24	Simochromis diagramma	848827444		Scaffold	2018-06-18	OVJJ01	823
+GCA_029532605.1	ASM2953260v1		Oreochromis grahami	892455989		Contig	2023-03-31	JAQSNX01	11391
+GCA_024447675.2	IM_AGF_Complete		Pterophyllum scalare	734688592		Contig	2022-10-20	JAMQGT02	15490
+GCA_018403475.1	Hchi_1.0		Haplochromis chilotes	798403686		Scaffold	2021-04-06	BOUH01	18943
+GCA_008269305.1	ASM826930v1		Oreochromis spilurus	764974731		Contig	2019-09-03	VSJB01	221829
+GCA_015106775.1	JWD4.scf		Etroplus canarensis	975368651		Scaffold	2020-10-29	VUQH01	91474
+GCA_015102735.1	IMB4.scf		Telmatochromis temporalis	683388748		Scaffold	2020-10-29	VVBY01	72516
+GCA_015105175.1	IQD3.scf		Ophthalmotilapia ventralis	668909459		Scaffold	2020-10-29	VVDM01	79520
+GCA_000150875.1	ASM15087v1		Labeotropheus fuelleborni	70858381		Scaffold	2008-07-09	ABPK01	58245
+GCA_000150895.1	ASM15089v1		Melanochromis auratus	68238634		Scaffold	2008-07-09	ABPL01	63297
+GCA_046255105.1	fCopChr1.0		Otopharynx argyrosoma	875617937		Contig	2024-12-23	JBHGNX01	2947
+GCA_050230035.1	fCopChr1.0		Copadichromis chrysonotus	864558252		Contig	2025-05-07	JBNOCG01	6402
+GCA_051994305.1	ASM5199430v1		Lugubria johanna	824082141		Scaffold	2025-08-13	JBNTTN01	18427
+GCA_902810495.1	PTv1.0		Petrochromis trewavasae	917573940		Scaffold	2020-04-15	CADDXY01	7261
+GCA_902810505.1	TMv1.0		Tropheus moorii	911126605		Scaffold	2020-04-15	CADDXZ01	7662
+GCA_018403495.1	Hsau_1.0		Haplochromis sauvagei	805051152		Scaffold	2021-04-06	BOUI01	23488
+GCA_018403515.1	Lruf_1.0		Lithochromis rufus	790111796		Scaffold	2021-04-06	BOUJ01	23938
+GCA_015708405.1	Z05.scf		Sarotherodon lohbergeri	734669951		Scaffold	2020-12-01	JAAECL01	43505
+GCA_034780415.1	ASM3478041v1		Cichlasoma orientale	775941416		Scaffold	2023-12-28	JAVDPK01	61610
+GCA_049180875.1	ASM4918087v1		Pterochromis congicus	782500156		Scaffold	2025-03-30	JBMBRF01	155343
+GCA_015052225.1	JAB6.scf		Oreochromis tanganicae	743038855		Scaffold	2020-10-28	VNLF01	54461
+GCA_015107895.1	IZH7.scf		Eretmodus cyanostictus	720832011		Scaffold	2020-10-29	VVGW01	52837
+GCA_015108415.1	JWF7.scf		Tilapia sparmanii	729330520		Scaffold	2020-10-29	VUQY01	51706
+GCA_015108515.1	JWE9.scf		Hemichromis elongatus	694332140		Scaffold	2020-10-29	VUQR01	37326
+GCA_015106755.1	JWD3.scf		Etia nguti	737182303		Scaffold	2020-10-29	VUQG01	46212
+GCA_015104515.1	ITA6.scf		Greenwoodochromis staneri	715886827		Scaffold	2020-10-29	VVES01	52619
+GCA_015110455.1	JXE9.scf		Eretmodus marksmithi	714657672		Scaffold	2020-10-29	VURW01	52806
+GCA_015105255.1	IQB8.scf		Haplotaxodon microlepis	725877926		Scaffold	2020-10-29	VVDI01	52021
+GCA_015106575.1	JWG4.scf		Tropheus annectens	711870347		Scaffold	2020-10-29	VURB01	54797
+GCA_015108555.1	JWE6.scf		Coptodon rendalli	734510853		Scaffold	2020-10-29	VUQP01	51376
+GCA_015106075.1	IZA8.scf		Perissodus multidentatus	716640519		Scaffold	2020-10-29	VVGP01	49509
+GCA_015110135.1	JZD3.scf		Spathodus marlieri	714771393		Scaffold	2020-10-29	VUSN01	53605
+GCA_015105735.1	INE8.scf		Plecodus straeleni	713795385		Scaffold	2020-10-29	VVCJ01	52659
+GCA_015107015.1	JUA4.scf		Pseudosimochromis babaulti	715582419		Scaffold	2020-10-29	VUPE01	53783
+GCA_015107505.1	JDD7.scf		Grammatotria lemairii	711001987		Scaffold	2020-10-29	VVHV01	56877
+GCA_015106255.1	IXB5.scf		Greenwoodochromis bellcrossi	715592818		Scaffold	2020-10-29	VVGA01	50634
+GCA_015110415.1	JXH5.scf		Petrochromis orthognathus	704346929		Scaffold	2020-10-29	VUSB01	55862
+GCA_015052565.1	KCE7.scf		Pseudosimochromis marginatus	706278120		Scaffold	2020-10-28	VOQM01	52804
+GCA_015106695.1	JWF5.scf		Serranochromis macrocephalus	720263168		Scaffold	2020-10-29	VUQW01	61443
+GCA_015107555.1	JCF2.scf		Boulengerochromis microlepis	728877443		Scaffold	2020-10-29	VVHU01	51548
+GCA_049180755.1	ASM4918075v1		Coptodon congicus	902651188		Scaffold	2025-03-30	JBMBRE01	419838
+GCA_015107955.1	IZB2.scf		Perissodus eccentricus	717642070		Scaffold	2020-10-29	VVGR01	51690
+GCA_015108955.1	JEI6.scf		Neolamprologus furcifer	719344519		Scaffold	2020-10-29	VUPB01	62892
+GCA_015107215.1	JEC7.scf		Cyprichromis coloratus	702549169		Scaffold	2020-10-29	VVIJ01	53570
+GCA_015109375.1	KEH3.scf		Neolamprologus longior	720965869		Scaffold	2020-10-29	VUUA01	61261
+GCA_015110155.1	JYH3.scf		Tanganicodus irsacae	711538798		Scaffold	2020-10-29	VUSI01	57984
+GCA_015105495.1	IOH5.scf		Lepidiolamprologus cunningtoni	717162431		Scaffold	2020-10-29	VVCW01	68462
+GCA_015108695.1	JWA6.scf		Neolamprologus variostigma	720958981		Scaffold	2020-10-29	VUPY01	65227
+GCA_015102225.1	AUC3.scf		Variabilichromis moorii	716053702		Scaffold	2020-10-29	VUZC01	63896
+GCA_015106635.1	JWF4.scf		Sargochromis carlottae	706231868		Scaffold	2020-10-29	VUQV01	63952
+GCA_015106615.1	JWF8.scf		Thoracochromis brauschi	709113638		Scaffold	2020-10-29	VUQZ01	62130
+GCA_015108395.1	JWG9.scf		Neolamprologus helianthus	714502186		Scaffold	2020-10-29	VURE01	62695
+GCA_015103275.1	GPC4.scf		Paracyprichromis nigripinnis	701602761		Scaffold	2020-10-29	VVAV01	59042
+GCA_015111015.1	LEF8.scf		Tropheus polli	710635257		Scaffold	2020-10-29	VUWO01	52701
+GCA_015108175.1	JWI4.scf		Pelvicachromis taeniatus	693289851		Scaffold	2020-10-29	VURO01	51222
+GCA_015110075.1	JZD6.scf		Neolamprologus toae	715708537		Scaffold	2020-10-29	VUSP01	63442
+GCA_015708585.1	Z07.scf		Sarotherodon steinbachi	725750946		Scaffold	2020-12-01	JAAECI01	46952
+GCA_015106655.1	JWE5.scf		Coptodon bakossiorum	729867591		Scaffold	2020-10-29	VUQO01	50658
+GCA_015105975.1	JAF7.scf		Xenotilapia flavipinnis	714265809		Scaffold	2020-10-29	VVHH01	70402
+GCA_015108275.1	JWH2.scf		Neolamprologus gracilis	717378789		Scaffold	2020-10-29	VURG01	61730
+GCA_015109735.1	KAG8.scf		Neolamprologus ventralis	711835635		Scaffold	2020-10-29	VUTH01	65530
+GCA_015107935.1	IZE4.scf		Greenwoodochromis christyi	708140562		Scaffold	2020-10-29	VVGU01	54622
+GCA_015052445.1	GPC9.scf		Cyprichromis zonatus	696218319		Scaffold	2020-10-28	VNKV01	53621
+GCA_015052425.1	AYC7.scf		Pseudosimochromis curvifrons	705940351		Scaffold	2020-10-28	VNKU01	66352
+GCA_015106095.1	IXF4.scf		Xenotilapia nigrolabiata	707019787		Scaffold	2020-10-29	VVGH01	68093
+GCA_030220045.1	ASM3022004v1		Australoheros facetus	868528015		Scaffold	2023-06-07	JASGAU01	411938
+GCA_015103235.1	GPH2.scf		Neolamprologus cylindricus	711903753		Scaffold	2020-10-29	VVBA01	65457
+GCA_015103075.1	HXC6.scf		Orthochromis indermauri	715093360		Scaffold	2020-10-29	VVBF01	68301
+GCA_015105295.1	IQA3.scf		Neolamprologus caudopunctatus	716779809		Scaffold	2020-10-29	VVDF01	69091
+GCA_015052305.1	IZA5.scf		Hemibates koningsi	725816905		Scaffold	2020-10-28	VNLE01	61069
+GCA_015107655.1	JAH7.scf		Xenochromis hecqui	706074928		Scaffold	2020-10-29	VVHL01	54697
+GCA_015102695.1	IMD1.scf		Lepidiolamprologus kendalli	712814048		Scaffold	2020-10-29	VVBZ01	68616
+GCA_015105335.1	IPG3.scf		Neolamprologus tetracanthus	711815290		Scaffold	2020-10-29	VVDE01	67501
+GCA_015109775.1	KAF6.scf		Xenotilapia longispinis	715411025		Scaffold	2020-10-29	VUTE01	68387
+GCA_015108895.1	JUB6.scf		Spathodus erythrodon	693558222		Scaffold	2020-10-29	VUPF01	61337
+GCA_015113095.1	LJA8.scf		Tangachromis dhanisi	714222081		Scaffold	2020-10-29	VUYH01	59427
+GCA_015108065.1	JXB5.scf		Julidochromis marlieri	706627396		Scaffold	2020-10-29	VURS01	65347
+GCA_015052545.1	LEH2.scf		Neolamprologus devosi	710808205		Scaffold	2020-10-28	VOQO01	66828
+GCA_015110375.1	JXG8.scf		Neolamprologus kungweensis	716095210		Scaffold	2020-10-29	VURY01	64072
+GCA_015104995.1	IRD7.scf		Ectodus descampsii	697273593		Scaffold	2020-10-29	VVDV01	69055
+GCA_015107735.1	JAE9.scf		Baileychromis centropomoides	706241213		Scaffold	2020-10-29	VVHF01	57637
+GCA_015102555.1	IMH3.scf		Neolamprologus modestus	710568538		Scaffold	2020-10-29	VVCE01	66541
+GCA_015108475.1	JWF3.scf		Pharyngochromis acuticeps	703218156		Scaffold	2020-10-29	VUQU01	62339
+GCA_015105015.1	IRC4.scf		Julidochromis dickfeldi	708899645		Scaffold	2020-10-29	VVDT01	66244
+GCA_015109975.1	JZF2.scf		Lepidiolamprologus pleuromaculatus	710437232		Scaffold	2020-10-29	VUSU01	66532
+GCA_015105655.1	INH7.scf		Cyphotilapia gibberosa	707718098		Scaffold	2020-10-29	VVCO01	54192
+GCA_015105935.1	JBE7.scf		Xenotilapia rotundiventralis	704550209		Scaffold	2020-10-29	VVHP01	75846
+GCA_015109795.1	KAF2.scf		Cardiopharynx schoutedeni	702721173		Scaffold	2020-10-29	VUTA01	74303
+GCA_015106735.1	JWD5.scf		Paratilapia polleni	814015474		Scaffold	2020-10-29	VUQI01	64452
+GCA_015106495.1	IWB6.scf		Petrochromis horii	702242957		Scaffold	2020-10-29	VVFQ01	57473
+GCA_015108155.1	JWI3.scf		Neolamprologus longicaudatus	712970117		Scaffold	2020-10-29	VURN01	62543
+GCA_015052345.1	IPH2.scf		Lamprologus callipterus	705074517		Scaffold	2020-10-28	VNKZ01	65861
+GCA_015109675.1	KCG2.scf		Lamprologus speciosus	715005986		Scaffold	2020-10-29	VUTK01	69004
+GCA_015102355.1	A108.scf		Neolamprologus nigriventris	714664917		Scaffold	2020-10-29	VUYW01	68231
+GCA_015104255.1	IUI4.scf		Reganochromis calliurus	688230200		Scaffold	2020-10-29	VVFF01	62563
+GCA_015110515.1	JXD4.scf		Neolamprologus falcicula	705706531		Scaffold	2020-10-29	VURU01	65264
+GCA_015103115.1	HFG1287.scf		Julidochromis transcriptus	713111330		Scaffold	2020-10-29	VVBC01	63515
+GCA_015110235.1	JYD3.scf		Astatotilapia stappersii	688206949		Scaffold	2020-10-29	VUSE01	64962
+GCA_015106975.1	JVB4.scf		Neolamprologus mondabu	708906637		Scaffold	2020-10-29	VUPK01	66349
+GCA_015104595.1	ISD8.scf		Lobochilotes labiata	685969866		Scaffold	2020-10-29	VVEN01	61345
+GCA_015107575.1	JBD6.scf		Telmatochromis vittatus	692464990		Scaffold	2020-10-29	VVHN01	68917
+GCA_015052385.1	ITB4.scf		Greenwoodochromis abeelei	694208540		Scaffold	2020-10-28	VNLA01	59113
+GCA_015109935.1	JZF3.scf		Lamprologus ornatipinnis	704008040		Scaffold	2020-10-29	VUSV01	65972
+GCA_015107495.1	JDE4.scf		Bathybates hornii	723040783		Scaffold	2020-10-29	VVHY01	69102
+GCA_015708495.1	Z09.scf		Stomatepia pindu	726966403		Scaffold	2020-12-01	JAAECJ01	52657
+GCA_015108755.1	JWA7.scf		Neolamprologus pectoralis	713762887		Scaffold	2020-10-29	VUPZ01	64850
+GCA_015106455.1	IWD6.scf		Lamprologus signatus	706389436		Scaffold	2020-10-29	VVFT01	67102
+GCA_015107355.1	JDF4.scf		Neolamprologus meeli	705984974		Scaffold	2020-10-29	VVIC01	68838
+GCA_015106715.1	JWD8.scf		Bujurquina vittata	685844181		Scaffold	2020-10-29	VUQK01	44515
+GCA_015108255.1	JWH6.scf		Neolamprologus olivaceous	711189255		Scaffold	2020-10-29	VURK01	65548
+GCA_015107295.1	JDI4.scf		Plecodus paradoxus	706454054		Scaffold	2020-10-29	VVIH01	53948
+GCA_015108575.1	JWE3.scf		Heterotilapia buettikoferi	720630469		Scaffold	2020-10-29	VUQN01	59585
+GCA_015109215.1	KFD4.scf		Neolamprologus walteri	695825513		Scaffold	2020-10-29	VUUE01	67344
+GCA_015106215.1	IXC1.scf		Xenotilapia caudafasciata	686448967		Scaffold	2020-10-29	VVGE01	68914
+GCA_015108215.1	JWH9.scf		Neolamprologus leleupi	711353858		Scaffold	2020-10-29	VURL01	63428
+GCA_015110755.1	LFH1.scf		Julidochromis marksmithi	704237844		Scaffold	2020-10-29	VUXC01	66143
+GCA_015108455.1	JWF6.scf		Lamprologus tigripictilis	710946870		Scaffold	2020-10-29	VUQX01	71624
+GCA_015107315.1	JDI2.scf		Lamprologus laparogramma	707546407		Scaffold	2020-10-29	VVIG01	69084
+GCA_015108495.1	JWF1.scf		Heterochromis multidens	833341774		Scaffold	2020-10-29	VUQS01	77704
+GCA_015108335.1	JWH4.scf		Neolamprologus marunguensis	705262498		Scaffold	2020-10-29	VURI01	65345
+GCA_015110035.1	JZE4.scf		Callochromis pleurospilus	709188225		Scaffold	2020-10-29	VUSR01	78222
+GCA_015103775.1	AXA7.scf		Shuja horei	691579143		Scaffold	2020-10-29	VUZV01	59842
+GCA_015105475.1	IPB6.scf		Interochromis loocki	694364440		Scaffold	2020-10-29	VVCX01	56205
+GCA_015104715.1	ISB3.scf		Neolamprologus pulcher	688076663		Scaffold	2020-10-29	VVEJ01	74460
+GCA_015102335.1	A142.scf		Neolamprologus hecqui	715079083		Scaffold	2020-10-29	VUYX01	66868
+GCA_015105755.1	INF1.scf		Xenotilapia leptura	714186965		Scaffold	2020-10-29	VVCL01	77717
+GCA_015111435.1	LDA4.scf		Petrochromis macrognathus	693425911		Scaffold	2020-10-29	VUVU01	65275
+GCA_015107715.1	JAG2.scf		Tylochromis polylepis	744281720		Scaffold	2020-10-29	VVHJ01	65801
+GCA_015104745.1	ISA8.scf		Neolamprologus savoryi	697328879		Scaffold	2020-10-29	VVEH01	67926
+GCA_015103415.1	BNC5.scf		Xenotilapia melanogenys	707231386		Scaffold	2020-10-29	VVAO01	78793
+GCA_015118035.1	LHG6.scf		Xenotilapia tenuidentata	710602812		Scaffold	2020-10-29	VUYD01	73694
+GCA_015109915.1	KAD2.scf		Lepidiolamprologus profundicola	705164024		Scaffold	2020-10-29	VUSX01	66486
+GCA_015708515.1	Z17.scf		Sarotherodon caroli	718506404		Scaffold	2020-12-01	JAAECK01	50285
+GCA_015104655.1	ISC9.scf		Altolamprologus compressiceps	704179329		Scaffold	2020-10-29	VVEM01	70922
+GCA_015110335.1	JXI2.scf		Paracyprichromis brieni	691560517		Scaffold	2020-10-29	VUSC01	64033
+GCA_015104535.1	ITA4.scf		Gnathochromis permaxillaris	700749853		Scaffold	2020-10-29	VVER01	59230
+GCA_015102815.1	ILF8.scf		Benthochromis horii	691640671		Scaffold	2020-10-29	VVBR01	58247
+GCA_015104075.1	IVF1.scf		Neolamprologus crassus	696710312		Scaffold	2020-10-29	VVFL01	68238
+GCA_015102195.1	AUE7.scf		Neolamprologus fasciatus	707392205		Scaffold	2020-10-29	VUZG01	70481
+GCA_015104405.1	ITH3.scf		Bathybates fasciatus	716743677		Scaffold	2020-10-29	VVEY01	65930
+GCA_015111915.1	KYE2.scf		Orthochromis malagaraziensis	685575294		Scaffold	2020-10-29	VUUW01	65405
+GCA_015106585.1	IVF4.scf		Xenotilapia papilio	711027003		Scaffold	2020-10-29	VVFM01	72013
+GCA_015110215.1	JYI8.scf		Tropheus brichardi	694005721		Scaffold	2020-10-29	VUSK01	58488
+GCA_015111975.1	KYB8.scf		Telmatochromis bifrenatus	693883046		Scaffold	2020-10-29	VUUU01	69288
+GCA_015113255.1	LHF7.scf		Neolamprologus bifasciatus	695688542		Scaffold	2020-10-29	VUYB01	71372
+GCA_015107095.1	JEI5.scf		Neolamprologus buescheri	688595876		Scaffold	2020-10-29	VUPA01	78610
+GCA_015111895.1	KYE7.scf		Orthochromis uvinzae	685472408		Scaffold	2020-10-29	VUUX01	64683
+GCA_015109035.1	KHA7.scf		Neolamprologus chitamwebwai	692038436		Scaffold	2020-10-29	VUUM01	72756
+GCA_015110975.1	LEI6.scf		Cyphotilapia frontosa	692800633		Scaffold	2020-10-29	VUWQ01	61843
+GCA_015102775.1	ILG3.scf		Benthochromis melanoides	691444567		Scaffold	2020-10-29	VVBS01	58184
+GCA_015052405.1	IOE3.scf		Altolamprologus calvus	703299116		Scaffold	2020-10-28	VNKY01	71712
+GCA_015102635.1	IMF8.scf		Xenotilapia nasus	701096423		Scaffold	2020-10-29	VVCC01	68577
+GCA_015109475.1	KEC1.scf		Lamprologus similis	708721287		Scaffold	2020-10-29	VUTT01	70003
+GCA_015103035.1	ILA7.scf		Neolamprologus calliurus	698644120		Scaffold	2020-10-29	VVBI01	68023
+GCA_015110015.1	JZE6.scf		Xenotilapia ornatipinnis	696016223		Scaffold	2020-10-29	VUSS01	68484
+GCA_015104175.1	IVB4.scf		Xenotilapia bathyphilus	691266287		Scaffold	2020-10-29	VVFI01	73265
+GCA_015105375.1	IPE7.scf		Xenotilapia boulengeri	684286372		Scaffold	2020-10-29	VVDB01	76516
+GCA_015102085.1	IUF7.scf		Xenotilapia sima	695915575		Scaffold	2020-10-29	WVVX01	73479
+GCA_015109575.1	KDC6.scf		Orthochromis mazimeroensis	683263474		Scaffold	2020-10-29	VUTO01	70296
+GCA_015109875.1	KAE8.scf		Astatoreochromis straeleni	689581009		Scaffold	2020-10-29	VUSY01	71781
+GCA_015102675.1	IMA2.scf		Neolamprologus obscurus	686328513		Scaffold	2020-10-29	VVBW01	72650
+GCA_015104635.1	ISI2.scf		Cyprichromis leptosoma	686586522		Scaffold	2020-10-29	VVEP01	61847
+GCA_015109155.1	KHA5.scf		Tropheus duboisi	694542091		Scaffold	2020-10-29	VUUL01	59451
+GCA_015106855.1	JVH4.scf		Xenotilapia ochrogenys	701404099		Scaffold	2020-10-29	VUPR01	78807
+GCA_015104565.1	ITB1.scf		Limnochromis auritus	690306064		Scaffold	2020-10-29	VVET01	54155
+GCA_015104465.1	ITG2.scf		Neolamprologus christyi	699213940		Scaffold	2020-10-29	VVEX01	71074
+GCA_015107635.1	JBE9.scf		Telmatochromis brachygnathus	685666524		Scaffold	2020-10-29	VVHR01	71963
+GCA_015103395.1	BND5.scf		Callochromis macrops	698766750		Scaffold	2020-10-29	VVAQ01	80240
+GCA_015112635.1	LGG6.scf		Chalinochromis cyanophleps	701142475		Scaffold	2020-10-29	VUXL01	70938
+GCA_015102795.1	ILG7.scf		Bathybates graueri	707439858		Scaffold	2020-10-29	VVBT01	70388
+GCA_015111655.1	LCA2.scf		Neolamprologus leloupi	704203045		Scaffold	2020-10-29	VUVH01	69221
+GCA_015052665.1	JWD9.scf		Apistogramma diplotaenia	627074439		Scaffold	2020-10-28	VOQJ01	48219
+GCA_015106915.1	JVF2.scf		Cyprichromis microlepidotus	680369180		Scaffold	2020-10-29	VUPO01	65115
+GCA_015103355.1	DMD1.scf		Trematochromis benthicola	703007347		Scaffold	2020-10-29	VVAR01	57403
+GCA_015103655.1	AYE5.scf		Cyathopharynx furcifer	693095359		Scaffold	2020-10-29	VVAC01	73432
+GCA_015112555.1	LGI1.scf		Neolamprologus petricola	697605287		Scaffold	2020-10-29	VUXQ01	70292
+GCA_015111955.1	KYA5.scf		Neolamprologus niger	688901154		Scaffold	2020-10-29	VUUS01	78463
+GCA_015111835.1	KYH4.scf		Oreochromis malagarasi	705671466		Scaffold	2020-10-29	VUUZ01	61075
+GCA_015107115.1	JEG5.scf		Triglachromis otostigma	694207251		Scaffold	2020-10-29	VUOX01	66640
+GCA_015110795.1	LFF8.scf		Lepidiolamprologus kamambae	698496020		Scaffold	2020-10-29	VUXA01	71705
+GCA_015052265.1	JEB2.scf		Cyprichromis pavo	684650755		Scaffold	2020-10-28	VNLH01	61225
+GCA_015113155.1	LHI6.scf		Plecodus elaviae	697720206		Scaffold	2020-10-29	VUYF01	59228
+GCA_015102955.1	ILB4.scf		Neolamprologus mustax	695925140		Scaffold	2020-10-29	VVBJ01	70086
+GCA_015104675.1	ISC1.scf		Julidochromis ornatus	693065394		Scaffold	2020-10-29	VVEL01	70665
+GCA_015104355.1	IUD9.scf		Trematocara macrostoma	705805415		Scaffold	2020-10-29	VVFA01	97392
+GCA_015106895.1	JVH2.scf		Lestradea stappersii	680245229		Scaffold	2020-10-29	VUPP01	75653
+GCA_015103955.1	AVG5.scf		Lepidiolamprologus attenuatus	696192362		Scaffold	2020-10-29	VUZN01	71640
+GCA_015052505.1	AWB7.scf		Gnathochromis pfefferi	684035700		Scaffold	2020-10-28	VNKT01	58754
+GCA_015103715.1	AXH8.scf		Ophthalmotilapia nasuta	692589657		Scaffold	2020-10-29	VVAB01	74589
+GCA_015107595.1	JBG3.scf		Bathybates minor	692255707		Scaffold	2020-10-29	VVHS01	75350
+GCA_015106175.1	IXC2.scf		Hemibates stenosoma	693607676		Scaffold	2020-10-29	VVGF01	74504
+GCA_015102055.1	AVA9.scf		Chalinochromis brichardi	695644622		Scaffold	2020-10-29	VUZJ01	72547
+GCA_015105635.1	IOD4.scf		Cyathopharynx foae	669535682		Scaffold	2020-10-29	VVCQ01	77243
+GCA_015111745.1	LBF7.scf		Telmatochromis dhonti	682595454		Scaffold	2020-10-29	VUVE01	77627
+GCA_015108855.1	JVI9.scf		Telmatochromis brichardi	687890300		Scaffold	2020-10-29	VUPT01	71251
+GCA_015103555.1	Bel09.scf		Chalinochromis popelini	689823753		Scaffold	2020-10-29	VVAH01	80053
+GCA_015106295.1	IXA6.scf		Trematocara unimaculatum	705420268		Scaffold	2020-10-29	VVFZ01	94913
+GCA_015103795.1	AXB5.scf		Xenotilapia spiloptera	695906706		Scaffold	2020-10-29	VUZW01	77387
+GCA_015109695.1	KCE5.scf		Neolamprologus boulengeri	684918977		Scaffold	2020-10-29	VUTI01	79213
+GCA_015105275.1	IQB6.scf		Haplotaxodon trifasciatus	689492295		Scaffold	2020-10-29	VVDH01	60802
+GCA_015106555.1	JWG3.scf		Haplochromis vanheusdeni	688696421		Scaffold	2020-10-29	VURA01	81276
+GCA_015104335.1	IUE5.scf		Trematocara nigrifrons	701134653		Scaffold	2020-10-29	VVFB01	109579
+GCA_015103815.1	AWI5.scf		Limnotilapia dardennii	683730957		Scaffold	2020-10-29	VUZT01	57475
+GCA_015103915.1	AWB9.scf		Petrochromis polyodon	684673751		Scaffold	2020-10-29	VUZP01	58243
+GCA_050511875.1	ASM5051187v1		Apistogramma caetei	964215789		Scaffold	2025-05-21	JBNVUE01	928211
+GCA_015104795.1	ISA3.scf		Trematocara marginatum	678914255		Scaffold	2020-10-29	VVEF01	100501
+GCA_015052645.1	JWE4.scf		Benitochromis conjunctus	665781484		Scaffold	2020-10-28	VOQK01	44281
+GCA_015102295.1	AUA9.scf		Aulonocranus dewindti	678090864		Scaffold	2020-10-29	VUZA01	73653
+GCA_015107995.1	IZE1.scf		Trematocara stigmaticum	676193654		Scaffold	2020-10-29	VVGT01	96657
+GCA_015108095.1	IYA7.scf		Petrochromis famula	684081926		Scaffold	2020-10-29	VVGL01	60142
+GCA_015112655.1	LGE2.scf		Neolamprologus timidus	690529152		Scaffold	2020-10-29	VUXJ01	75000
+GCA_015103155.1	GPH7.scf		Petrochromis fasciolatus	673260571		Scaffold	2020-10-29	VVBB01	60938
+GCA_015107455.1	JDE6.scf		Bathybates vittatus	703166819		Scaffold	2020-10-29	VVHZ01	78993
+GCA_015109125.1	KFH5.scf		Neolamprologus tretocephalus	694868712		Scaffold	2020-10-29	VUUJ01	69809
+GCA_015103535.1	Bel12.scf		Ophthalmotilapia heterodonta	683285184		Scaffold	2020-10-29	VVAI01	88601
+GCA_015103015.1	ILB6.scf		Neolamprologus brevis	665718898		Scaffold	2020-10-29	VVBK01	80876
+GCA_015111855.1	KYG1.scf		Haplochromis paludinosus	665712341		Scaffold	2020-10-29	VUUY01	70285
+GCA_015105095.1	IRA2.scf		Lestradea perspicax	670395631		Scaffold	2020-10-29	VVDQ01	74544
+GCA_015111595.1	LCD6.scf		Bathybates ferox	688524176		Scaffold	2020-10-29	VUVO01	78477
+GCA_015102875.1	ILF7.scf		Bathybates leo	683123695		Scaffold	2020-10-29	VVBQ01	84767
+GCA_015102115.1	AUG8.scf		Lepidiolamprologus elongatus	686380566		Scaffold	2020-10-29	VUZH01	75032
+GCA_015109195.1	KFF4.scf		Julidochromis regani	685839716		Scaffold	2020-10-29	VUUH01	69299
+GCA_015108635.1	JWD7.scf		Andinoacara biseriatus	682785894		Scaffold	2020-10-29	VUQJ01	46099
+GCA_015108715.1	JWA9.scf		Lamprologus stappersi	688779800		Scaffold	2020-10-29	VUQB01	95078
+GCA_015102515.1	IND7.scf		Neolamprologus sexfasciatus	688849680		Scaffold	2020-10-29	VVCH01	74286
+GCA_015110735.1	LFI4.scf		Ophthalmotilapia boops	677592684		Scaffold	2020-10-29	VUXD01	75108
+GCA_015111395.1	LDD6.scf		Lepidiolamprologus mimicus	684929885		Scaffold	2020-10-29	VUVY01	73870
+GCA_015106535.1	IVH1.scf		Neolamprologus prochilus	682293555		Scaffold	2020-10-29	VVFO01	73984
+GCA_015052485.1	ILD3.scf		Lamprologus ocellatus	683075113		Scaffold	2020-10-28	VNKX01	78701
+GCA_015109845.1	KAF3.scf		Callochromis melanostigma	685972472		Scaffold	2020-10-29	VUTB01	81489
+GCA_015111415.1	LDA7.scf		Benthochromis tricoti	675405680		Scaffold	2020-10-29	VUVV01	62715
+GCA_032270725.1	ASM3227072v1		Pseudocrenilabrus philander	776927631		Scaffold	2023-10-02	JAVFCA01	123404
+GCA_015112995.1	LJD2.scf		Astatotilapia flaviijosephi	648774917		Scaffold	2020-10-29	VUYP01	84191
+GCA_015107875.1	IZI7.scf		Lamprologus lemairii	675673633		Scaffold	2020-10-29	VVGY01	78384
+GCA_015110815.1	LFE4.scf		Trematocara zebra	662979882		Scaffold	2020-10-29	VUWY01	107602
+GCA_015106375.1	IWD8.scf		Cunningtonia longiventralis	667629517		Scaffold	2020-10-29	VVFV01	80224
+GCA_015104975.1	IRD9.scf		Xenotilapia singularis	666020613		Scaffold	2020-10-29	VVDX01	87823
+GCA_015113075.1	LJC9.scf		Neolamprologus cancellatus	650738931		Scaffold	2020-10-29	VUYN01	98023
+GCA_015108615.1	JWE2.scf		Australoheros scitulus	709570869		Scaffold	2020-10-29	VUQM01	97693
+GCA_015108585.1	JWE1.scf		Amphilophus zaliosus	691926659		Scaffold	2020-10-29	VUQL01	103854
+GCA_015103455.1	Bel33.scf		Trematocara variabile	597795682		Scaffold	2020-10-29	VVAN01	133714
+GCA_015103295.1	FPO1.scf		Ptychochromis oligacanthus	707022484		Scaffold	2020-10-29	VVAS01	119860
+GCA_015112415.1	LJC8.scf		Trematocara caparti	553073352		Scaffold	2020-10-29	VUYM01	170395
+GCA_043643375.1	ASM4364337v1		Oreochromis niloticus	1111200740	22	Chromosome	2024-10-24	JAOWUH01	190
+GCA_013350305.1	XX_nile		Oreochromis niloticus	993468885	22	Chromosome	2020-06-18	JAAMTG01	403
+GCA_041146795.1	Mzebra_GT3a		Maylandia zebra	962175383	22	Chromosome	2024-08-12	JBEVYI01	63
+GCA_047715935.1	ASM4771593v1		Maylandia zebra	934220836	23	Chromosome	2025-02-12	JBKOQO01	157
+GCA_964374335.1	fAstCal68.1		Astatotilapia calliptera	933413188	22	Chromosome	2024-12-01	CAYJYG01	30
+GCA_043643405.1	ASM4364340v1		Oreochromis aureus	1061609948	22	Chromosome	2024-10-24	JAOWUG01	100
+GCA_016625535.1	ASM1662553v1		Oreochromis aureus	1237756756	22	Chromosome	2021-01-19	JAAKDK01	1862
+GCA_051167405.1	ASM5116740v1		Perissodus microlepis	850127715	22	Chromosome	2025-07-01	JBPFCQ01	66
+GCA_964273455.2	RhaChi1.2		Rhamphochromis sp. 'chilingali'	901684441	22	Chromosome	2025-03-28	CAXWWL02	212
+GCA_963969265.1	fRhaChi2.1		Rhamphochromis sp. 'chilingali'	921167628	22	Chromosome	2024-02-26	CAXAJW01	81
+GCA_965183775.1	fDipLim2.hap2.1		Diplotaxodon limnothrissa	872696690	22	Chromosome	2025-03-04	CBCYLY01	639
+GCA_036321365.1	Pm_UMD_M		Pelmatolapia mariae	1214439365	20	Chromosome	2024-01-31	JAWPEJ01	3914
+GCA_050613475.1	ASM5061347v1		Tropheus sp. 'black'	937226949	22	Chromosome	2025-05-29	JBMKKR01	194
+GCA_040805855.1	ASM4080585v1		Chromidotilapia guntheri	833771541	24	Chromosome	2024-07-22	JBDKXD01	168
+GCA_964274065.2	TroMau2.2		Tropheops sp. 'mauve'	912725380	22	Chromosome	2025-03-28	CAXWYP02	108
+GCA_947598445.1	ORENIAB8128_EIv1.1	2024-04-10	Oreochromis niloticus	1095366212		Scaffold	2022-12-17	CANQGJ01	216
+GCA_922820385.1	Nile Tilapia GIFT		Oreochromis niloticus	1055593462		Scaffold	2021-12-17	CAKLNW01	23
+GCA_025558135.1	ASM2555813v1		Oreochromis niloticus	827525727		Contig	2022-10-03	JANFCW01	1017640
+GCA_015108015.1	IZA1.scf		Haplochromis burtoni	675588291		Scaffold	2020-10-29	VVGN01	66009
+GCA_015110255.1	JYD5.scf		Haplochromis burtoni	625339680		Scaffold	2020-10-29	VUSF01	88635
+GCA_964374285.1	fAstCal68.1 alternate haplotype		Astatotilapia calliptera	845253161		Scaffold	2024-12-02	CAYJYH01	1718
+GCA_000751415.1	Midas_v5		Amphilophus citrinellus	844902565		Scaffold	2014-09-07	CCOE01	6637
+GCA_964200765.1	fNeoMul1.2 alternate haplotype		Neolamprologus multifasciatus	20864028		Scaffold	2024-07-23	CAXNAT01	98
+GCA_015105195.1	IQC4.scf		Perissodus microlepis	703474312		Scaffold	2020-10-29	VVDL01	56991
+GCA_015107025.1	JUH9.scf		Neolamprologus brichardi	698772456		Scaffold	2020-10-29	VUPI01	64719
+GCA_015105155.1	IQI4.scf		Perissodus microlepis	681451575		Scaffold	2020-10-29	VVDO01	69304
+GCA_015106995.1	JUI1.scf		Neolamprologus brichardi	677492425		Scaffold	2020-10-29	VUPJ01	75226
+GCA_015104955.1	IRF8.scf		Neolamprologus multifasciatus	661545306		Scaffold	2020-10-29	VVDZ01	88871
+GCA_965226735.1	fAulStu2.1 alternate haplotype		Aulonocara stuartgranti	752734706		Contig	2025-03-28	CBDDFC01	1417
+GCA_964273965.1	AulStu5.1		Aulonocara stuartgranti	889966833		Contig	2024-10-04	CAXWYE01	1027
+GCA_049997595.1	fRhaChi2.0		Rhamphochromis sp. 'chilingali'	851692647		Contig	2025-04-29	JBNBMW01	3317
+GCA_963969275.1	fRhaChi2.1 alternate haplotype		Rhamphochromis sp. 'chilingali'	738725802		Contig	2024-02-27	CAXAJX01	2406
+GCA_007364235.1	fArcCen1_v1.h		Archocentrus centrarchus	1034011644		Scaffold	2019-07-24	STFW01	9292
+GCA_964273505.1	RhaChi1.1 alternate haplotype		Rhamphochromis sp. 'chilingali'	764546163		Contig	2024-10-03	CAXWWP01	3236
+GCA_964273975.1	AulStu5.1 alternate haplotype		Aulonocara stuartgranti	632938324		Contig	2024-10-04	CAXWYF01	7088
+GCA_015052585.1	AUD8.scf		Simochromis diagramma	706606566		Scaffold	2020-10-28	VNKS01	58596
+GCA_015102155.1	AUE1.scf		Simochromis diagramma	702248343		Scaffold	2020-10-29	VUZE01	58607
+GCA_015708565.1	Z03.scf		Pungu maclareni	723316941		Scaffold	2020-12-01	JAAECH01	51557
+GCA_015105135.1	IQE4.scf		Ophthalmotilapia ventralis	679897602		Scaffold	2020-10-29	VVDN01	79476
+GCA_015102655.1	IMB3.scf		Telmatochromis temporalis	651608604		Scaffold	2020-10-29	VVBX01	89193
+GCA_046255095.1	fLetChi2.0		Lethrinops sp. 'Chilingali'	888697736		Contig	2024-12-23	JBHGNW01	3906
+GCA_964273385.1	TroMau2.1 alternate haplotype		Tropheops sp. 'mauve'	390139736		Contig	2024-11-07	CAXWWB01	1994
+GCA_015107795.1	JAC7.scf		Oreochromis tanganicae	738938093		Scaffold	2020-10-29	VVHC01	54666
+GCA_015106675.1	JWF2.scf		Pelmatolapia mariae	742559019		Scaffold	2020-10-29	VUQT01	54897
+GCA_015108655.1	JWD1.scf		Paracyprichromis sp. 'tembwe' AB-2019	710755336		Scaffold	2020-10-29	VUQE01	53215
+GCA_015052705.1	JVC3.scf		Tropheus sp. 'black'	712498882		Scaffold	2020-10-28	VOQH01	54208
+GCA_015109615.1	KCF3.scf		Pseudosimochromis marginatus	707394168		Scaffold	2020-10-29	VUTJ01	54367
+GCA_015106795.1	JWD2.scf		Paracyprichromis sp. 'tembwe' AB-2019	708381076		Scaffold	2020-10-29	VUQF01	54764
+GCA_015052285.1	IWC9.scf		Petrochromis trewavasae	709996764		Scaffold	2020-10-28	VNLD01	53558
+GCA_015109715.1	KAG3.scf		Cyphotilapia sp. '5-bar frontosa' AB-2019	717924045		Scaffold	2020-10-29	VUTF01	50732
+GCA_015109555.1	KDG2.scf		Cyphotilapia sp. '5-bar frontosa' AB-2019	714078544		Scaffold	2020-10-29	VUTP01	53727
+GCA_015109335.1	KFA7.scf		Cyprichromis sp. 'dwarf jumbo' AB-2019	706554340		Scaffold	2020-10-29	VUUB01	49724
+GCA_015052685.1	JWA2.scf		Julidochromis sp. 'unterfels' AB-2019	718430107		Scaffold	2020-10-28	VOQI01	65284
+GCA_015107855.1	IZI3.scf		Eretmodus cyanostictus	705087176		Scaffold	2020-10-29	VVGX01	59208
+GCA_015112515.1	LHB3.scf		Petrochromis sp. 'polyodon texas' AB-2019	705286015		Scaffold	2020-10-29	VUXU01	54583
+GCA_015107755.1	JAE7.scf		Boulengerochromis microlepis	726523879		Scaffold	2020-10-29	VVHE01	52632
+GCA_015109275.1	KFA9.scf		Cyprichromis sp. 'dwarf jumbo' AB-2019	704186464		Scaffold	2020-10-29	VUUC01	52907
+GCA_015105695.1	INH1.scf		Cyprichromis sp. 'jumbo' AB-2019	698829690		Scaffold	2020-10-29	VVCN01	52843
+GCA_015107075.1	JEI8.scf		Neolamprologus furcifer	712748803		Scaffold	2020-10-29	VUPC01	67552
+GCA_015109315.1	KEF2.scf		Tropheus sp. 'lukuga' AB-2019	708482422		Scaffold	2020-10-29	VUTY01	51996
+GCA_015107235.1	JED2.scf		Cyprichromis coloratus	697932415		Scaffold	2020-10-29	VVIK01	53652
+GCA_015108815.1	JWA1.scf		Julidochromis sp. 'unterfels' AB-2019	711880470		Scaffold	2020-10-29	VUPU01	68511
+GCA_015108675.1	JWC9.scf		Telmatochromis sp. 'longola' AB-2019	713504275		Scaffold	2020-10-29	VUQD01	60747
+GCA_015105995.1	JAF9.scf		Xenotilapia flavipinnis	710364774		Scaffold	2020-10-29	VVHI01	72544
+GCA_015108775.1	JWA5.scf		Neolamprologus variostigma	715522157		Scaffold	2020-10-29	VUPX01	66482
+GCA_015102275.1	AUB6.scf		Pseudosimochromis babaulti	705147137		Scaffold	2020-10-29	VUZB01	65473
+GCA_015111035.1	LEF9.scf		Tropheus polli	708126722		Scaffold	2020-10-29	VUWP01	53361
+GCA_015103215.1	GPH1.scf		Neolamprologus cylindricus	706458197		Scaffold	2020-10-29	VVAZ01	67685
+GCA_015113055.1	LJC2.scf		Julidochromis transcriptus	711616841		Scaffold	2020-10-29	VUYJ01	65592
+GCA_015109655.1	KCI6.scf		Neolamprologus sp. 'brevis magara' AB-2019	705096510		Scaffold	2020-10-29	VUTM01	67072
+GCA_015109755.1	KAG7.scf		Neolamprologus ventralis	709369790		Scaffold	2020-10-29	VUTG01	64967
+GCA_015110275.1	JYF7.scf		Ophthalmotilapia sp. 'paranasuta' AB-2019	708047076		Scaffold	2020-10-29	VUSG01	70033
+GCA_015109635.1	KCG3.scf		Lamprologus speciosus	714530206		Scaffold	2020-10-29	VUTL01	69974
+GCA_015113015.1	LJC3.scf		Neolamprologus nigriventris	716037962		Scaffold	2020-10-29	VUYK01	69494
+GCA_015103095.1	HXC5.scf		Haplochromis sp. Chipwa	700233646		Scaffold	2020-10-29	VVBE01	57837
+GCA_015104015.1	AVB6.scf		Pseudosimochromis babaulti	708187066		Scaffold	2020-10-29	VUZL01	69400
+GCA_015106055.1	IZA9.scf		Perissodus multidentatus	705054391		Scaffold	2020-10-29	VVGQ01	56957
+GCA_015105435.1	IPC1.scf		Petrochromis trewavasae ephippium	688950699		Scaffold	2020-10-29	VVCY01	60882
+GCA_015112475.1	LHC1.scf		Telmatochromis sp. 'dhonti twiyu' AB-2019	714934337		Scaffold	2020-10-29	VUXV01	64790
+GCA_015110175.1	JYH7.scf		Tanganicodus irsacae	694492678		Scaffold	2020-10-29	VUSJ01	63208
+GCA_015104425.1	ITC2.scf		Greenwoodochromis staneri	696635811		Scaffold	2020-10-29	VVEV01	58402
+GCA_015111075.1	LEF2.scf		Benthochromis sp. 'horii mahale' AB-2019	705300076		Scaffold	2020-10-29	VUWN01	52256
+GCA_015108875.1	JVB8.scf		Neolamprologus mondabu	705730298		Scaffold	2020-10-29	VUPL01	67588
+GCA_015103635.1	Bel01.scf		Xenotilapia sp. 'kilesa' AB-2019	710886173		Scaffold	2020-10-29	VVAD01	72378
+GCA_015110395.1	JXH2.scf		Neolamprologus kungweensis	705246034		Scaffold	2020-10-29	VURZ01	72956
+GCA_015110495.1	JXC1.scf		Julidochromis marlieri	703735116		Scaffold	2020-10-29	VURT01	66035
+GCA_015111495.1	LCF1.scf		Tropheus sp. 'Kirschfleck'	695420430		Scaffold	2020-10-29	VUVQ01	58373
+GCA_015107915.1	IZF1.scf		Greenwoodochromis christyi	690713693		Scaffold	2020-10-29	VVGV01	59448
+GCA_015105615.1	INH9.scf		Cyphotilapia gibberosa	705241427		Scaffold	2020-10-29	VVCP01	55909
+GCA_015107155.1	JED5.scf		Neolamprologus sp. 'ventralis stripe' AB-2019	698729602		Scaffold	2020-10-29	VUOW01	67745
+GCA_015110695.1	LGA5.scf		Tropheus sp. 'brichardi kipili' AB-2019	694495417		Scaffold	2020-10-29	VUXF01	61897
+GCA_015111475.1	LCF8.scf		Petrochromis sp. 'moshi yellow' AB-2019	692230688		Scaffold	2020-10-29	VUVT01	60912
+GCA_015113175.1	LHG4.scf		Xenotilapia tenuidentata	710078883		Scaffold	2020-10-29	VUYC01	74687
+GCA_015113215.1	LHE3.scf		Tropheus sp. 'murago' AB-2019	694619420		Scaffold	2020-10-29	VUXY01	61832
+GCA_015106315.1	IXA4.scf		Perissodus eccentricus	703326511		Scaffold	2020-10-29	VVFX01	54768
+GCA_015108355.1	JWH1.scf		Neolamprologus gracilis	706588286		Scaffold	2020-10-29	VURF01	64015
+GCA_015106475.1	IWB5.scf		Petrochromis horii	687823504		Scaffold	2020-10-29	VVFP01	65690
+GCA_015105715.1	INE9.scf		Plecodus straeleni	703106879		Scaffold	2020-10-29	VVCK01	56617
+GCA_015110475.1	JXD7.scf		Neolamprologus falcicula	708783665		Scaffold	2020-10-29	VURV01	66799
+GCA_015110095.1	JZD5.scf		Neolamprologus toae	709349448		Scaffold	2020-10-29	VUSO01	65972
+GCA_015108535.1	JWE8.scf		Steatocranus sp. 'ultraslender' AB-2019	712550673		Scaffold	2020-10-29	VUQQ01	72014
+GCA_015111775.1	LBF3.scf		Julidochromis sp. 'marlieri south' AB-2019	704465009		Scaffold	2020-10-29	VUVD01	68608
+GCA_015109395.1	KEF3.scf		Tropheus sp. 'lukuga' AB-2019	692500893		Scaffold	2020-10-29	VUTZ01	67432
+GCA_015109515.1	KEB4.scf		Petrochromis sp. 'kazumbae' AB-2019	697945754		Scaffold	2020-10-29	VUTR01	53363
+GCA_015105675.1	INF2.scf		Xenotilapia leptura	713931601		Scaffold	2020-10-29	VVCM01	80289
+GCA_015108915.1	JUD5.scf		Telmatochromis sp. 'dhonti north' AB-2019	708854752		Scaffold	2020-10-29	VUPH01	67572
+GCA_015106035.1	IZC7.scf		Xenotilapia nigrolabiata	688421214		Scaffold	2020-10-29	VVGS01	72111
+GCA_015107975.1	IZA2.scf		Benthochromis melanoides	683118534		Scaffold	2020-10-29	VVGO01	63214
+GCA_015109955.1	JZF4.scf		Lamprologus ornatipinnis	697224635		Scaffold	2020-10-29	VUSW01	72468
+GCA_015111195.1	LDI5.scf		Tropheus sp. 'mpimbwe' AB-2019	691453286		Scaffold	2020-10-29	VUWH01	63108
+GCA_015105395.1	IPF3.scf		Interochromis loocki	678029334		Scaffold	2020-10-29	VVDC01	63951
+GCA_015112075.1	KHE6.scf		Julidochromis regani	694958740		Scaffold	2020-10-29	VUUQ01	72149
+GCA_015108195.1	JWI5.scf		Pelvicachromis taeniatus	683755683		Scaffold	2020-10-29	VURP01	54277
+GCA_015113275.1	LHF6.scf		Neolamprologus bifasciatus	694528962		Scaffold	2020-10-29	VUYA01	71776
+GCA_015108035.1	IYA8.scf		Trematochromis benthicola	699677164		Scaffold	2020-10-29	VVGM01	63201
+GCA_015103735.1	AXF8.scf		Pseudosimochromis curvifrons	698702596		Scaffold	2020-10-29	VUZZ01	72002
+GCA_015106195.1	IXB8.scf		Benthochromis melanoides	690173480		Scaffold	2020-10-29	VVGC01	62544
+GCA_015106955.1	JVC9.scf		Tropheus sp. 'black'	694724529		Scaffold	2020-10-29	VUPM01	58912
+GCA_015105055.1	IRC5.scf		Julidochromis dickfeldi	687430740		Scaffold	2020-10-29	VVDU01	75123
+GCA_015108135.1	JWI6.scf		Neolamprologus pectoralis	712959601		Scaffold	2020-10-29	VURQ01	68245
+GCA_015111055.1	LEC7.scf		Plecodus paradoxus	697134177		Scaffold	2020-10-29	VUWL01	52567
+GCA_015105585.1	IOD9.scf		Tropheus sp. 'red' AB-2019	691261817		Scaffold	2020-10-29	VVCS01	58180
+GCA_015107535.1	JDD8.scf		Grammatotria lemairii	674949586		Scaffold	2020-10-29	VVHW01	71173
+GCA_015102495.1	INC7.scf		Neolamprologus calliurus	685605627		Scaffold	2020-10-29	VVCG01	75968
+GCA_015109435.1	KEB8.scf		Lepidiolamprologus profundicola	703981823		Scaffold	2020-10-29	VUTS01	67027
+GCA_015104195.1	IUI7.scf		Xenochromis hecqui	696183031		Scaffold	2020-10-29	VVFG01	58616
+GCA_015108315.1	JWH3.scf		Neolamprologus marunguensis	707163336		Scaffold	2020-10-29	VURH01	66234
+GCA_015110915.1	LFB9.scf		Neolamprologus sp. 'eseki' AB-2019	699229374		Scaffold	2020-10-29	VUWU01	68370
+GCA_015110765.1	LFG8.scf		Julidochromis marksmithi	693054436		Scaffold	2020-10-29	VUXB01	73719
+GCA_015102755.1	IMA1.scf		Neolamprologus obscurus	690232326		Scaffold	2020-10-29	VVBV01	75267
+GCA_015107375.1	JDF5.scf		Lamprologus sp. 'ornatipinnis zambia' AB-2019	688859277		Scaffold	2020-10-29	VVID01	77224
+GCA_015111935.1	KYB7.scf		Telmatochromis bifrenatus	693547641		Scaffold	2020-10-29	VUUT01	70801
+GCA_015111515.1	LCF3.scf		Tropheus sp. 'Kirschfleck'	686651220		Scaffold	2020-10-29	VUVR01	62133
+GCA_015111095.1	LEE1.scf		Neolamprologus longior	694784411		Scaffold	2020-10-29	VUWM01	76551
+GCA_015107055.1	JUA3.scf		Pseudosimochromis babaulti	692965816		Scaffold	2020-10-29	VUPD01	60663
+GCA_015052725.1	JUB7.scf		Spathodus erythrodon	694763626		Scaffold	2020-10-28	VOQG01	63381
+GCA_015103695.1	AXD5.scf		Neolamprologus fasciatus	699856313		Scaffold	2020-10-29	VUZY01	70465
+GCA_015109815.1	KAF5.scf		Xenotilapia longispinis	703271709		Scaffold	2020-10-29	VUTD01	73878
+GCA_015105955.1	JBD5.scf		Telmatochromis vittatus	675515947		Scaffold	2020-10-29	VVHM01	75000
+GCA_015102915.1	ILD9.scf		Julidochromis sp. 'kombe' AB-2019	683487422		Scaffold	2020-10-29	VVBN01	75257
+GCA_015107675.1	JAH5.scf		Tylochromis polylepis	739120352		Scaffold	2020-10-29	VVHK01	67353
+GCA_015106815.1	JVI5.scf		Xenotilapia ochrogenys	697709730		Scaffold	2020-10-29	VUPS01	79923
+GCA_015108295.1	JWH5.scf		Neolamprologus olivaceous	702510496		Scaffold	2020-10-29	VURJ01	67278
+GCA_015112615.1	LGH1.scf		Ophthalmotilapia sp. 'white cap' AB-2019	696861579		Scaffold	2020-10-29	VUXN01	72545
+GCA_015104925.1	IRD8.scf		Ectodus descampsii	667238878		Scaffold	2020-10-29	VVDW01	77882
+GCA_015112095.1	KHC4.scf		Ectodus sp. 'north'	681491488		Scaffold	2020-10-29	VUUO01	75985
+GCA_015106015.1	JAB7.scf		Baileychromis centropomoides	681831021		Scaffold	2020-10-29	VVHB01	71310
+GCA_015110435.1	JXF4.scf		Eretmodus marksmithi	683346320		Scaffold	2020-10-29	VURX01	64767
+GCA_015108235.1	JWI2.scf		Neolamprologus longicaudatus	701086066		Scaffold	2020-10-29	VURM01	67890
+GCA_015111815.1	LBE2.scf		Xenotilapia sima	701095240		Scaffold	2020-10-29	VUVB01	73281
+GCA_015109535.1	KEA4.scf		Petrochromis sp. 'kazumbae' AB-2019	693067596		Scaffold	2020-10-29	VUTQ01	55958
+GCA_015108995.1	JEI4.scf		Neolamprologus buescheri	687849017		Scaffold	2020-10-29	VUOZ01	80416
+GCA_015102135.1	AVA8.scf		Shuja horei	687435822		Scaffold	2020-10-29	VUZI01	64531
+GCA_015104615.1	ISE5.scf		Lobochilotes labiata	673223275		Scaffold	2020-10-29	VVEO01	66854
+GCA_015111535.1	LCD5.scf		Petrochromis sp. 'red' AB-2019	684157775		Scaffold	2020-10-29	VUVN01	62941
+GCA_015105355.1	IPF7.scf		Neolamprologus tetracanthus	681445762		Scaffold	2020-10-29	VVDD01	77564
+GCA_015104155.1	IVE8.scf		Neolamprologus crassus	689236898		Scaffold	2020-10-29	VVFK01	70129
+GCA_015111575.1	LCD1.scf		Petrochromis sp. 'red' AB-2019	683142697		Scaffold	2020-10-29	VUVM01	63476
+GCA_015110995.1	LEI9.scf		Cyphotilapia frontosa	687266949		Scaffold	2020-10-29	VUWR01	65252
+GCA_015108975.1	JEG6.scf		Triglachromis otostigma	685279642		Scaffold	2020-10-29	VUOY01	73137
+GCA_015104735.1	ISA6.scf		Neolamprologus pulcher	678411670		Scaffold	2020-10-29	VVEG01	78307
+GCA_015103875.1	AVH2.scf		Cyathopharynx furcifer	689949097		Scaffold	2020-10-29	VUZO01	73776
+GCA_015110115.1	JZA3.scf		Tropheus brichardi	687430323		Scaffold	2020-10-29	VUSL01	64480
+GCA_015105415.1	IPE3.scf		Xenotilapia boulengeri	685188279		Scaffold	2020-10-29	VVDA01	81337
+GCA_015111615.1	LCC6.scf		Neolamprologus sp. 'gracilis tanzania' AB-2019	689217272		Scaffold	2020-10-29	VUVL01	73760
+GCA_015102575.1	IMF7.scf		Xenotilapia nasus	674943917		Scaffold	2020-10-29	VVCB01	79058
+GCA_015102975.1	HXC8.scf		Telmatochromis sp. 'lufubu' AB-2019	700980058		Scaffold	2020-10-29	VVBH01	71849
+GCA_015112535.1	LHB1.scf		Petrochromis sp. 'polyodon texas' AB-2019	686881253		Scaffold	2020-10-29	VUXT01	58498
+GCA_015110195.1	JZB7.scf		Spathodus marlieri	683070751		Scaffold	2020-10-29	VUSM01	66304
+GCA_015104215.1	IUI8.scf		Bathybates graueri	687650874		Scaffold	2020-10-29	VVFH01	76491
+GCA_015107255.1	JEB4.scf		Cyprichromis pavo	675130045		Scaffold	2020-10-29	VVII01	72768
+GCA_015111295.1	LDE3.scf		Petrochromis sp. 'kipili brown' AB-2019	678246622		Scaffold	2020-10-29	VUWB01	65620
+GCA_015109595.1	KCI7.scf		Neolamprologus sp. 'brevis magara' AB-2019	687519472		Scaffold	2020-10-29	VUTN01	74468
+GCA_015111695.1	LCB4.scf		Neolamprologus sp. 'gracilis tanzania' AB-2019	687601997		Scaffold	2020-10-29	VUVI01	73844
+GCA_015106335.1	IXA5.scf		Bathybates minor	689806508		Scaffold	2020-10-29	VVFY01	78321
+GCA_015111175.1	LDG3.scf		Neolamprologus sp. 'caudopunctatus kipili' AB-2019	701808566		Scaffold	2020-10-29	VUWG01	71355
+GCA_015103935.1	AWC5.scf		Xenotilapia melanogenys	697822003		Scaffold	2020-10-29	VUZQ01	80993
+GCA_015110875.1	LFD4.scf		Neolamprologus sp. 'cygnus' AB-2019	694955769		Scaffold	2020-10-29	VUWX01	70074
+GCA_015111115.1	LEA3.scf		Xenotilapia sp. 'spilopterus north' AB-2019	689436327		Scaffold	2020-10-29	VUWJ01	82695
+GCA_015107615.1	JBH4.scf		Tropheus moorii	671084953		Scaffold	2020-10-29	VVHT01	70567
+GCA_015104235.1	IVB5.scf		Xenotilapia bathyphilus	678670477		Scaffold	2020-10-29	VVFJ01	79881
+GCA_015111155.1	LDI7.scf		Tropheus sp. 'mpimbwe' AB-2019	680628748		Scaffold	2020-10-29	VUWI01	67383
+GCA_015108835.1	JWA3.scf		Lamprologus sp. 'ornatipinnis congo' AB-2019	690966169		Scaffold	2020-10-29	VUPV01	78503
+GCA_015106135.1	IYA4.scf		Neolamprologus savoryi	669554863		Scaffold	2020-10-29	VVGI01	78484
+GCA_015102175.1	AUC4.scf		Variabilichromis moorii	697536122		Scaffold	2020-10-29	VUZD01	70823
+GCA_015107815.1	IZI8.scf		Neolamprologus christyi	676309416		Scaffold	2020-10-29	VVGZ01	79280
+GCA_015103135.1	HXC4.scf		Haplochromis sp. Chipwa	674352407		Scaffold	2020-10-29	VVBD01	69271
+GCA_015102935.1	ILC1.scf		Lamprologus ocellatus	677293717		Scaffold	2020-10-29	VVBM01	81326
+GCA_015108735.1	JWC8.scf		Telmatochromis sp. 'longola' AB-2019	686758878		Scaffold	2020-10-29	VUQC01	81131
+GCA_015109255.1	KFF1.scf		Pseudosimochromis marginatus	685439317		Scaffold	2020-10-29	VUUG01	58821
+GCA_015110855.1	LFD2.scf		Neolamprologus sp. 'cygnus' AB-2019	695502899		Scaffold	2020-10-29	VUWW01	71271
+GCA_015102605.1	INA6.scf		Julidochromis sp. 'kombe' AB-2019	677598341		Scaffold	2020-10-29	VVCF01	79658
+GCA_015112055.1	KHC5.scf		Ectodus sp. 'north'	678686595		Scaffold	2020-10-29	VUUP01	78667
+GCA_015111875.1	LBA1.scf		Julidochromis sp. 'marlieri south' AB-2019	691068485		Scaffold	2020-10-29	VUVA01	68827
+GCA_015112395.1	LHF2.scf		Telmatochromis sp. 'dhonti twiyu' AB-2019	706900099		Scaffold	2020-10-29	VUXZ01	74153
+GCA_015104855.1	IRI9.scf		Telmatochromis sp. 'shell' AB-2019	675863732		Scaffold	2020-10-29	VVED01	77228
+GCA_015052595.1	KED7.scf		Tropheus sp. 'lunatus' AB-2019	688421799		Scaffold	2020-10-28	VOQN01	68509
+GCA_015111795.1	LBE9.scf		Xenotilapia sima	687591382		Scaffold	2020-10-29	VUVC01	78018
+GCA_015105075.1	IRB2.scf		Julidochromis sp. 'regani south' AB-2019	672223289		Scaffold	2020-10-29	VVDR01	78892
+GCA_015104295.1	IUI1.scf		Reganochromis calliurus	669914143		Scaffold	2020-10-29	VVFE01	71813
+GCA_015111355.1	LDC6.scf		Petrochromis sp. 'giant' AB-2019	685615114		Scaffold	2020-10-29	VUVW01	58823
+GCA_015052325.1	IUI5.scf		Gnathochromis permaxillaris	692581368		Scaffold	2020-10-28	VNLB01	63710
+GCA_015103675.1	AXH6.scf		Ophthalmotilapia nasuta	689308810		Scaffold	2020-10-29	VVAA01	75358
+GCA_015108435.1	JWG5.scf		Tropheus annectens	687938452		Scaffold	2020-10-29	VURC01	59295
+GCA_015104695.1	ISB7.scf		Julidochromis ornatus	672971391		Scaffold	2020-10-29	VVEK01	76354
+GCA_015103195.1	GPD1.scf		Cyprichromis zonatus	673900190		Scaffold	2020-10-29	VVAX01	64357
+GCA_015102315.1	AUA1.scf		Aulonocranus dewindti	683744053		Scaffold	2020-10-29	VUYZ01	74698
+GCA_015104495.1	ITB3.scf		Greenwoodochromis abeelei	689411359		Scaffold	2020-10-29	VVEU01	60312
+GCA_015106415.1	IWD4.scf		Petrochromis trewavasae	687763470		Scaffold	2020-10-29	VVFR01	60747
+GCA_015105535.1	IOH4.scf		Lepidiolamprologus cunningtoni	695509545		Scaffold	2020-10-29	VVCV01	73665
+GCA_015103855.1	AWE2.scf		Gnathochromis pfefferi	680179288		Scaffold	2020-10-29	VUZR01	58674
+GCA_015112495.1	LGH8.scf		Neolamprologus petricola	690821841		Scaffold	2020-10-29	VUXP01	74863
+GCA_015111455.1	LCF6.scf		Petrochromis sp. 'moshi yellow' AB-2019	683228998		Scaffold	2020-10-29	VUVS01	59374
+GCA_015111135.1	LEA4.scf		Xenotilapia sp. 'spilopterus north' AB-2019	685458513		Scaffold	2020-10-29	VUWK01	86829
+GCA_015110295.1	JYG5.scf		Ophthalmotilapia sp. 'paranasuta' AB-2019	686059010		Scaffold	2020-10-29	VUSH01	74976
+GCA_015108795.1	JWA4.scf		Lamprologus sp. 'ornatipinnis congo' AB-2019	685735059		Scaffold	2020-10-29	VUPW01	80088
+GCA_015105235.1	IQB9.scf		Paracyprichromis sp. 'brieni south' AB-2019	685889387		Scaffold	2020-10-29	VVDJ01	62804
+GCA_015110675.1	LGA6.scf		Tropheus sp. 'brichardi kipili' AB-2019	685630084		Scaffold	2020-10-29	VUXG01	61942
+GCA_015112015.1	KYA1.scf		Neolamprologus niger	681852043		Scaffold	2020-10-29	VUUR01	78027
+GCA_015113195.1	LHI4.scf		Plecodus elaviae	693561716		Scaffold	2020-10-29	VUYE01	59796
+GCA_015111255.1	LDF5.scf		Neolamprologus sp. 'furcifer ulwile' AB-2019	693491777		Scaffold	2020-10-29	VUWE01	72597
+GCA_015103435.1	Bel18.scf		Cyprichromis sp. 'kibishi' AB-2019	674991828		Scaffold	2020-10-29	VVAM01	77109
+GCA_015107475.1	JDE3.scf		Bathybates hornii	703048774		Scaffold	2020-10-29	VVHX01	71991
+GCA_015052625.1	JZF1.scf		Lepidiolamprologus pleuromaculatus	693565144		Scaffold	2020-10-28	VOQL01	73115
+GCA_015108115.1	JXA4.scf		Telmatochromis brichardi	685828322		Scaffold	2020-10-29	VURR01	72087
+GCA_015103255.1	GPC6.scf		Paracyprichromis nigripinnis	678539533		Scaffold	2020-10-29	VVAW01	65924
+GCA_015112675.1	LGE3.scf		Neolamprologus timidus	682751669		Scaffold	2020-10-29	VUXK01	81205
+GCA_015103755.1	AXB8.scf		Xenotilapia spiloptera	696071628		Scaffold	2020-10-29	VUZX01	82257
+GCA_015110895.1	LFB7.scf		Neolamprologus sp. 'eseki' AB-2019	679269631		Scaffold	2020-10-29	VUWT01	77149
+GCA_015102255.1	A206.scf		Xenotilapia papilio	700596226		Scaffold	2020-10-29	VUYY01	80210
+GCA_015103375.1	BND3.scf		Callochromis macrops	690412700		Scaffold	2020-10-29	VVAP01	81634
+GCA_015106155.1	IXC3.scf		Hemibates stenosoma	682880642		Scaffold	2020-10-29	VVGG01	80217
+GCA_015104275.1	IUF8.scf		Xenotilapia sima	691810432		Scaffold	2020-10-29	VVFD01	76063
+GCA_015103895.1	AWI4.scf		Petrochromis polyodon	684391845		Scaffold	2020-10-29	VUZS01	58994
+GCA_015105455.1	IPD6.scf		Lamprologus lemairii	674355417		Scaffold	2020-10-29	VVCZ01	81852
+GCA_015102595.1	IMG9.scf		Neolamprologus modestus	691317804		Scaffold	2020-10-29	VVCD01	73450
+GCA_015111715.1	LBF8.scf		Telmatochromis dhonti	675072260		Scaffold	2020-10-29	VUVF01	79405
+GCA_015106935.1	JVE1.scf		Cyprichromis microlepidotus	664892034		Scaffold	2020-10-29	VUPN01	69107
+GCA_015112575.1	LGG7.scf		Chalinochromis cyanophleps	691640008		Scaffold	2020-10-29	VUXM01	74334
+GCA_015102995.1	ILB7.scf		Neolamprologus brevis	665616206		Scaffold	2020-10-29	VVBL01	82198
+GCA_015104875.1	IRI8.scf		Telmatochromis sp. 'shell' AB-2019	683865305		Scaffold	2020-10-29	VVEC01	70391
+GCA_015103835.1	AWI6.scf		Limnotilapia dardennii	682546233		Scaffold	2020-10-29	VUZU01	59787
+GCA_015109995.1	JZE8.scf		Xenotilapia ornatipinnis	686597603		Scaffold	2020-10-29	VUST01	71506
+GCA_015111235.1	LDF4.scf		Neolamprologus sp. 'furcifer ulwile' AB-2019	691267021		Scaffold	2020-10-29	VUWD01	73489
+GCA_015103175.1	GPF9.scf		Xenotilapia sp. 'papilio sunflower'	690032972		Scaffold	2020-10-29	VVAY01	79436
+GCA_015104035.1	AVB2.scf		Chalinochromis brichardi	688018494		Scaffold	2020-10-29	VUZK01	73639
+GCA_015708455.1	Z06.scf		Sarotherodon lohbergeri	709041510		Scaffold	2020-12-01	JAAECM01	54989
+GCA_015103055.1	HXC7.scf		Orthochromis indermauri	681965277		Scaffold	2020-10-29	VVBG01	74859
+GCA_015105895.1	JBE8.scf		Telmatochromis brachygnathus	662362837		Scaffold	2020-10-29	VVHQ01	82084
+GCA_015107425.1	JDF3.scf		Neolamprologus meeli	678320556		Scaffold	2020-10-29	VVIB01	81274
+GCA_015111275.1	LDE1.scf		Chalinochromis sp. 'bifrenatus'	691054403		Scaffold	2020-10-29	VUWA01	73342
+GCA_015111635.1	LCB5.scf		Neolamprologus sp. 'falcicula mahale' AB-2019	676758759		Scaffold	2020-10-29	VUVJ01	76684
+GCA_015052525.1	LFA8.scf		Petrochromis sp. 'orthognathus ikola' AB-2019	681483515		Scaffold	2020-10-28	VOQP01	62676
+GCA_015105555.1	IOE2.scf		Altolamprologus calvus	679688995		Scaffold	2020-10-29	VVCU01	74994
+GCA_015106395.1	IWD7.scf		Cunningtonia longiventralis	665745250		Scaffold	2020-10-29	VVFU01	84107
+GCA_015111335.1	LDD9.scf		Chalinochromis sp. 'bifrenatus'	691809114		Scaffold	2020-10-29	VUVZ01	73337
+GCA_015110055.1	JZE2.scf		Callochromis pleurospilus	686699189		Scaffold	2020-10-29	VUSQ01	81254
+GCA_015106515.1	IVF5.scf		Xenotilapia papilio	672259770		Scaffold	2020-10-29	VVFN01	87453
+GCA_015107695.1	JAF5.scf		Limnochromis auritus	679715219		Scaffold	2020-10-29	VVHG01	60295
+GCA_015104555.1	ISI6.scf		Cyprichromis leptosoma	672231523		Scaffold	2020-10-29	VVEQ01	65653
+GCA_015112775.1	LGB8.scf		Petrochromis sp. 'macrognathus rainbow' AB-2019	681966742		Scaffold	2020-10-29	VUXI01	61901
+GCA_015107415.1	JDE7.scf		Bathybates vittatus	699221876		Scaffold	2020-10-29	VVIA01	84991
+GCA_015112455.1	LHD2.scf		Petrochromis sp. 'giant' AB-2019	680468209		Scaffold	2020-10-29	VUXW01	61360
+GCA_015113295.1	LHD9.scf		Tropheus sp. 'murago' AB-2019	681802313		Scaffold	2020-10-29	VUXX01	60721
+GCA_015104775.1	ISB1.scf		Altolamprologus compressiceps	682927146		Scaffold	2020-10-29	VVEI01	78633
+GCA_015103515.1	Bel14.scf		Neolamprologus hecqui	678459838		Scaffold	2020-10-29	VVAK01	85090
+GCA_015108935.1	JUD4.scf		Telmatochromis sp. 'dhonti north' AB-2019	664251327		Scaffold	2020-10-29	VUPG01	81208
+GCA_015113115.1	LJB1.scf		Petrochromis macrognathus	673915020		Scaffold	2020-10-29	VUYI01	75620
+GCA_015106425.1	IWD5.scf		Lamprologus signatus	679415488		Scaffold	2020-10-29	VVFS01	76960
+GCA_015102855.1	ILE6.scf		Neolamprologus sp. 'kombe' AB-2019	677961402		Scaffold	2020-10-29	VVBP01	72675
+GCA_015109115.1	KFH4.scf		Neolamprologus tretocephalus	693070553		Scaffold	2020-10-29	VUUI01	71387
+GCA_015109495.1	KEC2.scf		Lamprologus similis	694522667		Scaffold	2020-10-29	VUTU01	75333
+GCA_015103315.1	GPB2.scf		Bathybates fasciatus	680422350		Scaffold	2020-10-29	VVAU01	90092
+GCA_015104375.1	IUD8.scf		Trematocara macrostoma	673540315		Scaffold	2020-10-29	VVEZ01	103548
+GCA_015110315.1	JXI4.scf		Paracyprichromis brieni	671390453		Scaffold	2020-10-29	VUSD01	77751
+GCA_015105315.1	IQA4.scf		Neolamprologus caudopunctatus	685789077		Scaffold	2020-10-29	VVDG01	77116
+GCA_015113235.1	LHA5.scf		Lepidiolamprologus sp. 'meeli kipili' AB-2019	686267478		Scaffold	2020-10-29	VUXS01	75869
+GCA_015109055.1	KHA9.scf		Neolamprologus chitamwebwai	668762133		Scaffold	2020-10-29	VUUN01	81689
+GCA_015107395.1	JDG4.scf		Lamprologus sp. 'ornatipinnis zambia' AB-2019	664904344		Scaffold	2020-10-29	VVIE01	86184
+GCA_015106355.1	IXA3.scf		Trematocara unimaculatum	693913544		Scaffold	2020-10-29	VVFW01	104357
+GCA_015103495.1	Bel13.scf		Neolamprologus hecqui	671934787		Scaffold	2020-10-29	VVAJ01	85608
+GCA_015105115.1	IRA1.scf		Lestradea perspicax	648051608		Scaffold	2020-10-29	VVDP01	84088
+GCA_015103475.1	Bel16.scf		Cyprichromis sp. 'kibishi' AB-2019	661094487		Scaffold	2020-10-29	VVAL01	75835
+GCA_015109345.1	KEF1.scf		Chalinochromis sp. 'ndobhoi' AB-2019	686954032		Scaffold	2020-10-29	VUTX01	78243
+GCA_015111675.1	LCC2.scf		Neolamprologus sp. 'falcicula mahale' AB-2019	670804512		Scaffold	2020-10-29	VUVK01	79316
+GCA_015112595.1	LGH3.scf		Ophthalmotilapia sp. 'white cap' AB-2019	683395352		Scaffold	2020-10-29	VUXO01	77578
+GCA_015106275.1	IXB6.scf		Greenwoodochromis staneri	686726512		Scaffold	2020-10-29	VVGB01	60321
+GCA_015109285.1	KFE8.scf		Pseudosimochromis marginatus	675660616		Scaffold	2020-10-29	VUUF01	61769
+GCA_015102395.1	LDA9.scf		Benthochromis tricoti	677888442		Scaffold	2020-10-29	VXCO01	68499
+GCA_015106115.1	IYA6.scf		Petrochromis famula	656853181		Scaffold	2020-10-29	VVGK01	73628
+GCA_015113135.1	LJA7.scf		Tangachromis dhanisi	667373246		Scaffold	2020-10-29	VUYG01	79845
+GCA_015110715.1	LFI6.scf		Ophthalmotilapia boops	672407299		Scaffold	2020-10-29	VUXE01	76411
+GCA_015109235.1	KFD2.scf		Neolamprologus walteri	676536958		Scaffold	2020-10-29	VUUD01	69877
+GCA_015112695.1	LGB5.scf		Petrochromis sp. 'macrognathus rainbow' AB-2019	676678530		Scaffold	2020-10-29	VUXH01	63146
+GCA_015103975.1	AVD4.scf		Lepidiolamprologus attenuatus	681975098		Scaffold	2020-10-29	VUZM01	73364
+GCA_015109835.1	KAF4.scf		Callochromis melanostigma	689151099		Scaffold	2020-10-29	VUTC01	81714
+GCA_015108055.1	IYA5.scf		Petrochromis trewavasae ephippium	661164860		Scaffold	2020-10-29	VVGJ01	71999
+GCA_015105215.1	IQC1.scf		Paracyprichromis sp. 'brieni south' AB-2019	665460873		Scaffold	2020-10-29	VVDK01	72915
+GCA_015111315.1	LDE4.scf		Petrochromis sp. 'kipili brown' AB-2019	674292583		Scaffold	2020-10-29	VUWC01	63506
+GCA_015109175.1	KHA4.scf		Tropheus duboisi	679214037		Scaffold	2020-10-29	VUUK01	63645
+GCA_015110955.1	LFA6.scf		Petrochromis sp. 'orthognathus ikola' AB-2019	677221155		Scaffold	2020-10-29	VUWS01	62933
+GCA_015109455.1	KED6.scf		Tropheus sp. 'lunatus' AB-2019	677263118		Scaffold	2020-10-29	VUTV01	62265
+GCA_015111735.1	LCA1.scf		Neolamprologus leloupi	687831793		Scaffold	2020-10-29	VUVG01	74815
+GCA_015107775.1	JAE1.scf		Petrochromis fasciolatus	671206416		Scaffold	2020-10-29	VVHD01	64225
+GCA_015105035.1	IRB8.scf		Julidochromis sp. 'regani south' AB-2019	671744614		Scaffold	2020-10-29	VVDS01	73433
+GCA_015110835.1	LFF7.scf		Lepidiolamprologus kamambae	670027775		Scaffold	2020-10-29	VUWZ01	85683
+GCA_015107135.1	JED4.scf		Neolamprologus sp. 'ventralis stripe' AB-2019	673201548		Scaffold	2020-10-29	VUOV01	74656
+GCA_015111555.1	LCD7.scf		Bathybates ferox	679623610		Scaffold	2020-10-29	VUVP01	86585
+GCA_015104815.1	IRH4.scf		Altolamprologus sp. 'compressiceps shell' AB-2019	653157236		Scaffold	2020-10-29	VVEB01	88918
+GCA_015105515.1	IOE1.scf		Tropheus sp. 'red' AB-2019	670985934		Scaffold	2020-10-29	VVCT01	65798
+GCA_015102705.1	IMD2.scf		Lepidiolamprologus kendalli	679556897		Scaffold	2020-10-29	VVCA01	76346
+GCA_015102835.1	ILH1.scf		Neolamprologus mustax	676535975		Scaffold	2020-10-29	VVBU01	99271
+GCA_015109895.1	KAF1.scf		Cardiopharynx schoutedeni	675974986		Scaffold	2020-10-29	VUSZ01	75349
+GCA_015105575.1	IOD6.scf		Cyathopharynx foae	647650385		Scaffold	2020-10-29	VVCR01	84422
+GCA_015113315.1	LHA2.scf		Lepidiolamprologus sp. 'meeli kipili' AB-2019	678014130		Scaffold	2020-10-29	VUXR01	77138
+GCA_015109415.1	KEE9.scf		Chalinochromis sp. 'ndobhoi' AB-2019	680913016		Scaffold	2020-10-29	VUTW01	79207
+GCA_015107335.1	JDI1.scf		Lamprologus laparogramma	674016084		Scaffold	2020-10-29	VVIF01	81870
+GCA_015052245.1	JBH5.scf		Tropheus moorii	671742922		Scaffold	2020-10-28	VNLG01	66416
+GCA_015106235.1	IXB9.scf		Xenotilapia caudafasciata	666649636		Scaffold	2020-10-29	VVGD01	74394
+GCA_015111215.1	LDG2.scf		Neolamprologus sp. 'caudopunctatus kipili' AB-2019	678472148		Scaffold	2020-10-29	VUWF01	76260
+GCA_015103995.1	AUE6.scf		Lepidiolamprologus elongatus	677572979		Scaffold	2020-10-29	VUZF01	77458
+GCA_015105775.1	IND8.scf		Neolamprologus sexfasciatus	678978043		Scaffold	2020-10-29	VVCI01	76760
+GCA_015104915.1	IRE3.scf		Xenotilapia singularis	678491207		Scaffold	2020-10-29	VVDY01	111333
+GCA_015104895.1	IRH2.scf		Altolamprologus sp. 'compressiceps shell' AB-2019	651032924		Scaffold	2020-10-29	VVEA01	89027
+GCA_015105915.1	JBE6.scf		Xenotilapia rotundiventralis	672830152		Scaffold	2020-10-29	VVHO01	85741
+GCA_015103595.1	Bel03.scf		Xenotilapia sp. 'kilesa' AB-2019	662012010		Scaffold	2020-10-29	VVAE01	93311
+GCA_015103335.1	GPA1.scf		Trematocara nigrifrons	639062091		Scaffold	2020-10-29	VVAT01	105653
+GCA_015111995.1	KYB9.scf		Neolamprologus boulengeri	676917367		Scaffold	2020-10-29	VUUV01	79702
+GCA_015108375.1	JWG8.scf		Neolamprologus helianthus	652377671		Scaffold	2020-10-29	VURD01	84845
+GCA_015111365.1	LDD1.scf		Lepidiolamprologus mimicus	678300739		Scaffold	2020-10-29	VUVX01	77792
+GCA_015104445.1	ITD7.scf		Bathybates vittatus	684389959		Scaffold	2020-10-29	VVEW01	79176
+GCA_015107835.1	JAB1.scf		Lamprologus callipterus	669404384		Scaffold	2020-10-29	VVHA01	77658
+GCA_015106875.1	JVH3.scf		Lestradea stappersii	649821599		Scaffold	2020-10-29	VUPQ01	86295
+GCA_015103575.1	Bel06.scf		Ophthalmotilapia heterodonta	664310370		Scaffold	2020-10-29	VVAF01	99873
+GCA_015052335.1	IVH2.scf		Neolamprologus prochilus	670826502		Scaffold	2020-10-28	VNLC01	77817
+GCA_015104835.1	ISA1.scf		Trematocara marginatum	636283645		Scaffold	2020-10-29	VVEE01	106076
+GCA_015104315.1	IUE7.scf		Trematocara stigmaticum	659122371		Scaffold	2020-10-29	VVFC01	116520
+GCA_015110935.1	LFC9.scf		Trematocara zebra	649977942		Scaffold	2020-10-29	VUWV01	108414
+GCA_015102895.1	ILE5.scf		Neolamprologus sp. 'kombe' AB-2019	627962048		Scaffold	2020-10-29	VVBO01	93696
+GCA_015052465.1	GPF8.scf		Xenotilapia sp. 'papilio sunflower'	665658366		Scaffold	2020-10-28	VNKW01	86135
+GCA_015106835.1	JWA8.scf		Lamprologus stappersi	646622601		Scaffold	2020-10-29	VUQA01	111736
+GCA_015103615.1	Bel07.scf		Chalinochromis popelini	663284680		Scaffold	2020-10-29	VVAG01	105635
+GCA_015112375.1	LJD1.scf		Neolamprologus cancellatus	533574869		Scaffold	2020-10-29	VUYO01	120574
+GCA_015110355.1	JXH4.scf		Petrochromis orthognathus	508607698		Scaffold	2020-10-29	VUSA01	119695
+GCA_015113035.1	LJC5.scf		Hemibates koningsi	569184832		Scaffold	2020-10-29	VUYL01	190460
+GCA_965653315.1	A8_assembly		Otopharynx argyrosoma 'red'	7018548		Contig	2025-08-01	CBFGZS01	7422
+GCA_000188235.2	Orenil1.1		Oreochromis niloticus	927679487	22	Chromosome	2012-02-08	AERX01	5909
+GCF_000188235.2	Orenil1.1		Oreochromis niloticus	927679487	22	Chromosome	2012-02-08	AERX01	5909
+GCA_000239415.1	AstBur1.0		Haplochromis burtoni	831411547		Scaffold	2011-12-22	AFNZ01	8001
+GCF_000239415.1	AstBur1.0	2015-09-23	Haplochromis burtoni	831411547		Scaffold	2011-12-22	AFNZ01	8001
+GCA_005870065.1	ASM587006v1		Oreochromis aureus	918937175		Scaffold	2019-05-28	VASH01	12951
+GCF_005870065.1	ASM587006v1	2019-11-26	Oreochromis aureus	918937175		Scaffold	2019-05-28	VASH01	12951
+GCA_015102415.1	JWF9.scf		Tilapia brevimanus	746799404		Scaffold	2020-10-29	VXCN01	56581
+GCA_000150915.1	ASM15091v1		Maylandia zebra	79168277		Scaffold	2008-07-09	ABPM01	65094

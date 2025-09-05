@@ -1,0 +1,63 @@
+---
+title: "Plot_PSMC.Rmd"
+author: "Eric Witte"
+date: "2025-08-23"
+output: html_document
+---
+
+library(ggplot2)
+library(dplyr)
+
+# Parameters
+mutation_rate <- 1.25e-8 #per-site-per-generation
+generation_time <- 1 #years
+genome_size <- 1e9
+
+# Read main PSMC curve
+main_psmc <- read.table("data/PSMC_22.8.25/PK_diploid.txt", header = FALSE, sep = " ")
+
+colnames(main_psmc) <- c("time_coalescent", "time_gen", "Ne")
+
+main_psmc_scaled <- main_psmc %>%
+  filter(time_coalescent == "H") %>%
+  mutate(YearsBP = time_gen * 2 * generation_time * genome_size * mutation_rate,
+         Ne_scaled = Ne / (2 * mutation_rate))
+
+
+# Read bootstrap replicates (assuming files like bootstrap_1.txt, bootstrap_2.txt, ...)
+
+bootstrap_files <- list.files(path = "data/PSMC_22.8.25/", pattern = "bootstrap.*\\.txt$", full.names = TRUE)
+
+bootstrap_list <- lapply(bootstrap_files, read_psmc_history)
+
+names(bootstrap_list) <- gsub("\\.txt$", "", bootstrap_files)
+
+bootstrap_df <- bind_rows(bootstrap_list, .id = "replicate")
+
+boot_clean_df <- bootstrap_df %>%
+  rename(file = 1, type = 2, Ne = 3) %>%
+  mutate(replicate = sub(".*/(bootstrap[0-9]+).*", "\\1", file)) %>%
+  filter(type == "H", !is.na(Ne)) %>%
+  group_by(replicate) %>%
+  mutate(time_idx = row_number(),
+         YearsBP = time_idx * 2 * generation_time * genome_size * mutation_rate,
+         Ne_scaled = Ne / (2*mutation_rate)
+    )     %>%
+  ungroup()
+
+# Plot with bootstraps as background
+ggplot() +
+  # Bootstraps in gray
+  geom_line(data = boot_clean_df %>% filter(YearsBP > 0, Ne_scaled > 0),
+            aes(x = YearsBP, y = Ne_scaled, group = replicate),
+            color = "gray70", alpha = 0.5)  +
+  # Main PSMC in red
+  geom_line(data = main_psmc_scaled %>% filter(YearsBP > 0, Ne_scaled > 0),
+            aes(x = YearsBP, y = Ne_scaled),
+            color = "red", size = 1.2) +
+  scale_x_log10() +
+  scale_y_log10() +
+  labs(x = "Years Before Present", y = "Effective Population Size (Ne)",
+       title = "PSMC Inference with Bootstraps") +
+  theme_minimal(base_size = 14)
+
